@@ -1,0 +1,9 @@
+
+App(
+    appid="mansour",
+    name="Mansour",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="mansour_app",
+    stack_size=2048,
+    fap_category="Fun",
+)
